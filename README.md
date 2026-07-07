@@ -1,2 +1,2 @@
-# akumarau-
+# akumarau
 My GitHub profile
