@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Anupam 👋</h1>
 
 <p align="center">
-  <b>Senior Supportability Program Manager @ Microsoft</b> · Sydney, Australia 🇦🇺<br>
+  <b>Sr. Supportability Program Manager @ Microsoft</b> · Sydney, Australia 🇦🇺<br>
   Driving revenue growth &amp; cost optimisation across Windows Commercial &amp; on-prem enterprise tech · MSc Applied Finance (UNSW) in progress
 </p>
 
@@ -15,13 +15,13 @@
 
 ### 🧭 About me
 
-I run programs for enterprise Windows and on-prem technologies at Microsoft — making complex commercial products serviceable, diagnosable, and genuinely supportable at scale. My work sits where deep technical detail meets business impact: I drive **both revenue growth and cost optimisation** through data-driven programs, and turn technical outcomes into measurable customer value.
+I run programs for enterprise Windows and on-prem technologies at Microsoft, making complex commercial products serviceable, diagnosable, and genuinely supportable at scale. My work sits where deep technical detail meets business impact: I drive **both revenue growth and cost optimisation** through data-driven programs, and turn technical outcomes into measurable customer value.
 
-Outside the day job I'm finishing a **Master's in Applied Finance at UNSW**, chipping away at **Azure and Microsoft 365 certifications**, and pointing telescopes and cameras at things that are very far away.
+Outside the day job I'm finishing a **Master's in Applied Finance at UNSW**, chipping away at **Azure and Microsoft 365 certifications**, and pointing telescopes and cameras at things that are very near or very far away.
 
 - 🔭 Currently: MSc Applied Finance · Azure / M365 certification track
 - 🧩 At work: program &amp; portfolio management, customer success, revenue growth &amp; cost optimisation, applied AI and data
-- 📷 Behind the camera: a genre-agnostic photographer — from macro to portraiture to astro, and most everything in between
+- 📷 Behind the camera: a genre-agnostic photographer — from macro to portraiture to astro, and almost everything in between
 - 🧭 A storyteller at heart: I bring back stories (and images) from the places I travel
 - 🥾 Off the clock: travelling, hiking, and training for strength &amp; endurance
 - 📚 Always reading: philosophy &amp; history
