@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Sr. Supportability Program Manager</b> · Sydney, Australia 🇦🇺<br>
-  Driving revenue growth &amp; cost optimisation across enterprise product &amp; on-prem enterprise tech · Master's in Applied Finance (UNSW, 2026)
+  Driving revenue growth &amp; cost optimisation across enterprise and on-prem technology · Master's in Applied Finance (UNSW, 2026)
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
 
 ### 🧭 About me
 
-I run programs for enterprise Windows and on-prem technologies, making complex commercial products serviceable, diagnosable, and genuinely supportable at scale. My work sits where deep technical detail meets business impact: I drive **both revenue growth and cost optimisation** through data-driven programs, and turn technical outcomes into measurable customer value.
+I run programs for enterprise and on-prem technologies, making complex commercial products serviceable, diagnosable, and genuinely supportable at scale. My work sits where deep technical detail meets business impact: I drive **both revenue growth and cost optimisation** through data-driven programs, and turn technical outcomes into measurable customer value.
 
 Outside the day job I completed a **Master's in Applied Finance at UNSW** in 2026. I build AI agents through **[Asterward](https://asterward.com.au)**, work through **Azure and Microsoft 365 certifications**, and point telescopes and cameras at things that are very near or very far away.
 
